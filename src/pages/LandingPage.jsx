@@ -2,11 +2,11 @@ import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import Trustedandboardsection from "../components/Trustedandboardsection";
 import Featurespotlightsection from "../components/Featurespotlightsection";
-import TestimonialsSection from "../components/TestimonialsSection";
-import IntegrationsSection from "../components/IntegrationsSection";
+import TestimonialsSection from "../components/Testimonialssection";
+import IntegrationsSection from "../components/Integrationssection";
 import Pricingsection from "../components/Pricingsection";
 import Ctabannersection from "../components/Ctabannersection";
-import Footersection from "../components/Footersection";
+import Footersection from "../components/FooterSection";
 function LandingPage() {
   return (
     <>
