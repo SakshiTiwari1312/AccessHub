@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.ts-stats-band {
+  background: #000000fd !important;
+  padding: 56px 40px;
+}
